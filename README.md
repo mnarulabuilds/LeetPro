@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/mnarulabuilds/LeetPro/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/mnarulabuilds/LeetPro/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mnarulabuilds/LeetPro/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
