@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mnarulabuilds/LeetPro/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/mnarulabuilds/LeetPro/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mnarulabuilds/LeetPro/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mnarulabuilds/LeetPro/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/mnarulabuilds/LeetPro/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mnarulabuilds/LeetPro/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mnarulabuilds/LeetPro/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/mnarulabuilds/LeetPro/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mnarulabuilds/LeetPro/tree/master/0392-is-subsequence) |
