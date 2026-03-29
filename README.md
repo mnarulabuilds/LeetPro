@@ -48,11 +48,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/mnarulabuilds/LeetPro/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mnarulabuilds/LeetPro/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mnarulabuilds/LeetPro/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mnarulabuilds/LeetPro/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mnarulabuilds/LeetPro/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mnarulabuilds/LeetPro/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
