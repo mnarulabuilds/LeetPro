@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/mnarulabuilds/LeetPro/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/mnarulabuilds/LeetPro/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/mnarulabuilds/LeetPro/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mnarulabuilds/LeetPro/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/mnarulabuilds/LeetPro/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
