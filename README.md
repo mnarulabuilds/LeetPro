@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/mnarulabuilds/LeetPro/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mnarulabuilds/LeetPro/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/mnarulabuilds/LeetPro/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/mnarulabuilds/LeetPro/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/mnarulabuilds/LeetPro/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mnarulabuilds/LeetPro/tree/master/0844-backspace-string-compare) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/mnarulabuilds/LeetPro/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -96,12 +98,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/mnarulabuilds/LeetPro/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/mnarulabuilds/LeetPro/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mnarulabuilds/LeetPro/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/mnarulabuilds/LeetPro/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/mnarulabuilds/LeetPro/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
